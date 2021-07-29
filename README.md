@@ -1,4 +1,4 @@
-# Hey Guys ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">👼
+# Hello ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">👼
 My name is Fakhri Rizha Ananda and I love coding ...
 
 ## Social Media
