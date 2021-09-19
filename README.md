@@ -1,5 +1,5 @@
 # Hello ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">👼
-My name is Fakhri Rizha Ananda and I love coding ...
+Experienced personna with a demonstrated history of working in the non-profit organization management industry. Skilled in React, PHP, CodeIgniter, Web Design, and HTML. Strong information technology professional with a Bachelor's degree focused in Information Technology from Universitas Sumatera Utara.
 
 ## Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fakhririzha)
