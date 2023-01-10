@@ -4,7 +4,7 @@ Experienced personna with a demonstrated history of working in the non-profit or
 ## Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fakhririzha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fakhririzha)
-[![GMail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mr.fakhririzhaa@gmail.com)
+[![GMail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Mail&logoColor=white)](mailto:contact@fakhririzha.tech)
 
 ## 🔧 Technologies & Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
