@@ -1,5 +1,5 @@
 # Hello ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">😄
-Experienced personna with a demonstrated history of working in the non-profit organization management industry. Skilled in React, PHP, CodeIgniter, Web Design, and HTML. Strong information technology professional with a Bachelor's degree focused in Information Technology from Universitas Sumatera Utara.
+An experienced persona with a demonstrated history of working in the Non-profit organization, E-Commerce, and Education Industry. Highly skilled in React.js, PHP (CodeIgniter3), and Frontend Development, with React Native, Next.js/PWA, and GraphQL skills to cherry on top. Strong IT background with a Bachelor's degree majoring in Information Technology from Universitas Sumatera Utara.
 
 ## Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fakhririzha)
