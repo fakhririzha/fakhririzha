@@ -11,7 +11,7 @@ An experienced persona with a demonstrated history of working in the Non-profit 
 ![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=e4405f)
 ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase)
 
 ## Programming Language
