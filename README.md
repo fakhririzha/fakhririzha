@@ -25,4 +25,4 @@ An experienced persona with a demonstrated history of working in the Non-profit 
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ##  &#x1f4c8; GitHub Stats
-![Fakhri's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakhririzha&show_icons=true)
+![Fakhri's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakhririzha&show_icons=true&theme=dracula)
