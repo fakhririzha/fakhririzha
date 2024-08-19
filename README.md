@@ -26,4 +26,3 @@ An experienced persona with a demonstrated history of working in the Non-profit 
 
 ##  &#x1f4c8; GitHub Stats
 ![Fakhri's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakhririzha&show_icons=true&theme=tokyonight)
-![](https://activity-graph.herokuapp.com/graph?username=fakhririzha&theme=react-dark&area=true)
