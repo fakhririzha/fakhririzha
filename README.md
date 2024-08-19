@@ -28,6 +28,7 @@ An experienced persona with a demonstrated history of working in the Non-profit 
 
 ## UI Library
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-f7f7f7?style=for-the-badge&logo=tailwindcss&logoColor=blue)
+![MaterialUI](https://img.shields.io/badge/MaterialUI-f7f7f7?style=for-the-badge&logo=mui&logoColor=blue)
 
 ## Cloud
 ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
