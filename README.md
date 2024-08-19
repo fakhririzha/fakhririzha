@@ -7,10 +7,9 @@ An experienced persona with a demonstrated history of working in the Non-profit 
 [![GMail](https://img.shields.io/badge/Mail-c14438?style=for-the-badge&logo=GMail&logoColor=white)](mailto:mr.fakhririzhaa@gmail.com)
 
 ## 🔧 Technologies & Tools
-![GitHub](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=white)
-![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- ![GitHub](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=white) -->
+<!-- ![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=e4405f)
 ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase)
 ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)
@@ -23,6 +22,10 @@ An experienced persona with a demonstrated history of working in the Non-profit 
 ![CSS](https://img.shields.io/badge/CSS3-2d53e5?style=for-the-badge&logo=css3&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhririzha)](https://github.com/fakhririzha)
+
+## Cloud
+![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+![GCP](https://img.shields.io/badge/GoogleCloud-ffffff?style=for-the-badge&logo=googlecloud&logoColor=black)
 
 ## Framework
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
