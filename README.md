@@ -25,7 +25,7 @@ An experienced persona with a demonstrated history of working in the Non-profit 
 
 ## Cloud
 ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
-![GCP](https://img.shields.io/badge/GoogleCloud-ffffff?style=for-the-badge&logo=googlecloud&logoColor=black)
+![GCP](https://img.shields.io/badge/GoogleCloud-ffffff?style=for-the-badge&logo=googlecloud)
 
 ## Framework
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
