@@ -13,6 +13,7 @@ An experienced persona with a demonstrated history of working in the Non-profit 
 ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=e4405f)
 ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)
 
 ## Programming Language
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
