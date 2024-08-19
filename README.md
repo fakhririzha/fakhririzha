@@ -27,7 +27,7 @@ An experienced persona with a demonstrated history of working in the Non-profit 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhririzha)](https://github.com/fakhririzha)
 
 ## UI Library
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2d53e5?style=for-the-badge&logo=tailwindcss&logoColor=blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-f7f7f7?style=for-the-badge&logo=tailwindcss&logoColor=blue)
 
 ## Cloud
 ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
