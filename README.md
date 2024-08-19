@@ -21,10 +21,13 @@ An experienced persona with a demonstrated history of working in the Non-profit 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0080FF?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0080FF?style=for-the-badge&logo=python)
 ![CSS](https://img.shields.io/badge/CSS3-2d53e5?style=for-the-badge&logo=css3&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhririzha)](https://github.com/fakhririzha)
+
+## UI Library
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2d53e5?style=for-the-badge&logo=tailwindcss&logoColor=blue)
 
 ## Cloud
 ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
