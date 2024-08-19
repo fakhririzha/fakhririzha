@@ -14,6 +14,7 @@ An experienced persona with a demonstrated history of working in the Non-profit 
 ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase)
 ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-080808?style=for-the-badge&logo=drizzle&logoColor=c7f755)
+![Zod](https://img.shields.io/badge/Zod-080808?style=for-the-badge&logo=zod)
 
 ## Programming Language
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
