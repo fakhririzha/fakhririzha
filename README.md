@@ -11,7 +11,7 @@ An experienced persona with a demonstrated history of working in the Non-profit 
 <!-- ![VScode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-f7f7f7?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=ffcc32)
+![Firebase](https://img.shields.io/badge/Firebase-ffcc32?style=for-the-badge&logo=firebase&logoColor=ffffff)
 ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-080808?style=for-the-badge&logo=drizzle&logoColor=c7f755)
 ![Zod](https://img.shields.io/badge/Zod-080808?style=for-the-badge&logo=zod)
