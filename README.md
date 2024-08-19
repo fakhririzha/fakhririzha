@@ -4,7 +4,7 @@ An experienced persona with a demonstrated history of working in the Non-profit 
 ## Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fakhririzha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fakhririzha)
-[![GMail](https://img.shields.io/badge/Mail-c14438?style=for-the-badge&logo=GMail&logoColor=white)](mailto:contact@fakhririzha.tech)
+[![GMail](https://img.shields.io/badge/Mail-c14438?style=for-the-badge&logo=GMail&logoColor=white)](mailto:mr.fakhririzhaa@gmail.com)
 
 ## 🔧 Technologies & Tools
 ![GitHub](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=white)
@@ -18,6 +18,7 @@ An experienced persona with a demonstrated history of working in the Non-profit 
 ## Programming Language
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-2d53e5?style=for-the-badge&logo=css3&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhririzha)](https://github.com/fakhririzha)
