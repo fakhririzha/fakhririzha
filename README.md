@@ -24,7 +24,7 @@ An experienced persona with a demonstrated history of working in the Non-profit 
 ![Python](https://img.shields.io/badge/Python-0080FF?style=for-the-badge&logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-2d53e5?style=for-the-badge&logo=css3&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhririzha)](https://github.com/fakhririzha)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhririzha)](https://github.com/fakhririzha) -->
 
 ## UI Library
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-f7f7f7?style=for-the-badge&logo=tailwindcss&logoColor=blue)
