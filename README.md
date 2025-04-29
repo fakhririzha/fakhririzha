@@ -1,5 +1,5 @@
 # Hello ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">😄
-An experienced persona with a demonstrated history of working in the Non-profit organization, E-Commerce, and Education Industry. Highly skilled in React.js, PHP (CodeIgniter3), and Frontend Development, with React Native, Next.js/PWA, and GraphQL skills to cherry on top. Strong IT background with a Bachelor's degree majoring in Information Technology from Universitas Sumatera Utara.
+I'm a Software Engineer with 4+ years of experience in frontend development. Specializes in creating user-friendly interfaces and optimizing web performance. Proficient in React, Next.js, Vue, and other modern web technologies. Proven track record of delivering high-quality solutions for diverse clients, including major e-commerce platforms and mobile applications.
 
 ## Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fakhririzha)
