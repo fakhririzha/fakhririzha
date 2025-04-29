@@ -41,5 +41,5 @@ An experienced persona with a demonstrated history of working in the Non-profit 
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/VueJS-f7f7f7?style=for-the-badge&logo=vuedotjs)
 
-##  &#x1f4c8; GitHub Stats
-![Fakhri's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakhririzha&show_icons=true&theme=transparent&show=prs_merged)
+<!-- ##  &#x1f4c8; GitHub Stats -->
+<!-- ![Fakhri's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakhririzha&show_icons=true&theme=transparent&show=prs_merged) -->
